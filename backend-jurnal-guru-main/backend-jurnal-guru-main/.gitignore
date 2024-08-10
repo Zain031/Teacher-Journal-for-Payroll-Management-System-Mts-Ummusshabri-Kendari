@@ -1,0 +1,10 @@
+node_modules
+RombakControllers
+RombakMiddleware
+Rombakmigrations
+RombakModels
+rombak1.js
+.env
+coba.js
+backend-jurnal-sekolah.rar
+coverage
